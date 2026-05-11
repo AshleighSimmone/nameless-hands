@@ -1,10 +1,15 @@
 header {
   background-color: hsl(120°, 35%, 37%);
   color: #D4AF37;
+  text-shadow:  4px 4px 5px #006400;
+}
+
+nav {
+  color: #D4AF37;
   text-shadow:  2px 2px 5px #006400;
 }
 
 body {
   background-color: #e9ffdb;
-  color: #eee8aa;
+  color: #f0dc82;
 }
