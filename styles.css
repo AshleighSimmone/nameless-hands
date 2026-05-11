@@ -1,5 +1,5 @@
 header {
-  background-color: hsl(120, 35%, 67%);
+  background-color: hsl(120, 35%, 50%);
   color: #D4AF37;
   text-shadow: 4px 4px 5px #006400;
 }
@@ -16,8 +16,10 @@ h1 {
 
 body {
   background-color: #e9ffdb;
-  color: #f0dc82;
+  color: #D4AF37;
   text-shadow: 4px 4px 5px #006400;
   text-align: center;
-  font-size: 16px;
+  font-size: 24px;
+  padding: 20px;
+  margin: 20px;
 }
