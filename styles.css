@@ -1,15 +1,23 @@
 header {
-  background-color: hsl(120, 35%, 37%);
+  background-color: hsl(120, 35%, 67%);
   color: #D4AF37;
-  text-shadow:  4px 4px 5px #006400;
+  text-shadow: 4px 4px 5px #006400;
 }
 
-nav {
+a {
   color: #D4AF37;
-  text-shadow:  2px 2px 5px #006400;
+  text-shadow: 2px 2px 5px #006400;
+}
+
+h1 {
+  color: #D4AF37;
+  text-shadow: 4px 4px 5px #006400;
 }
 
 body {
   background-color: #e9ffdb;
   color: #f0dc82;
+  text-shadow: 4px 4px 5px #006400;
+  text-align: center;
+  font-size: 16px;
 }
